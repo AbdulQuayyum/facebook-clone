@@ -1,6 +1,6 @@
 {
-    "name": "flutter_facebook_responsive_ui",
-    "short_name": "flutter_facebook_responsive_ui",
+    "name": "facebook-clone",
+    "short_name": "facebook-clone",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
